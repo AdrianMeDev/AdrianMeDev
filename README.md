@@ -8,10 +8,10 @@ I'm passionate about **software development, AI, IT-Security** and love building
 
 ## About Me
 
-- 🌱 I’m currently learning: **[Angular, Django, C#, Docker, Keycloak]**
-- 👯 I’m looking to collaborate on: **[]**
-- 💬 Ask me about: **[]**
-- ⚡ Fun fact: **[]**
+- 🌱 I’m currently learning: **Angular, Django, C#, Docker, Keycloak**
+- 👯 I’m looking to collaborate on:
+- 💬 Ask me about:
+- ⚡ Fun fact:
 
 ## Skills
 
@@ -25,9 +25,9 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianMeDev&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianMeDev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMeDev&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMeDev&layout=compact&theme=radical)
 
 ## Projects
 
