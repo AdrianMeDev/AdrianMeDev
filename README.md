@@ -20,8 +20,9 @@ Here are some of the technologies and tools I work with:
 | Languages | Frameworks & Libraries | Tools & Platforms |
 |-----------|------------------------|-------------------|
 | Python 🐍 | React ⚛️ | Docker 🐳 | 
-| JavaScript 🌟 | Node.js 🚀 | Django 🐸  
-| C# 🖥️ | AWS ☁️ | Angular 🎈 | Linux 🐧
+| JavaScript 🌟 | Node.js 🚀 | AWS ☁️ |
+| C# 🖥️ | Angular 🎈 | Linux 🐧 |
+| | Django 🐸 | |
 
 ## GitHub Stats
 
