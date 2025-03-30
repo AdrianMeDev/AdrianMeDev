@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub profile! 🚀
 
-I'm passionate about **[software development, AI, IT-Security]** and love building innovative solutions to challenging problems.
+I'm passionate about **software development, AI, IT-Security** and love building innovative solutions to challenging problems.
 
 ## About Me
 
